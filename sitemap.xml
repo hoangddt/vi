@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://hoangddt.net/vi/blog/2015/04/stack-overflow-survey/</loc>
+    <lastmod>2015-04-21T00:17:50+07:00</lastmod>
+  </url>
+  <url>
     <loc>http://hoangddt.net/vi/blog/2015/04/dung-cac-the-h1-den-h6/</loc>
     <lastmod>2015-04-20T17:26:01+07:00</lastmod>
   </url>
@@ -29,5 +33,14 @@
   </url>
   <url>
     <loc>http://hoangddt.net/vi/blog/categories/blogging/</loc>
+  </url>
+  <url>
+    <loc>http://hoangddt.net/vi/blog/categories/stackoverflow/</loc>
+  </url>
+  <url>
+    <loc>http://hoangddt.net/vi/blog/categories/survey/</loc>
+  </url>
+  <url>
+    <loc>http://hoangddt.net/vi/blog/categories/deal/</loc>
   </url>
 </urlset>
